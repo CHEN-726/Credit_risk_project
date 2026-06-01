@@ -57,7 +57,7 @@ Predicted ≈ actual in every band — that is the definition of a "real" PD mod
 
 ## Outputs
 
-`figures/` — 13 publication-quality charts (ROC, PR, calibration, KS, gains/lift,
-PD distribution, risk segments, deciles, threshold tuning, confusion matrix,
-feature importance, CV stability).
-`outputs/` — metric tables, scored test set, the saved model (`.pkl`), and a data-quality report.
+figures/ — 15 publication-quality charts (ROC, PR, calibration, KS, 
+gains/lift, PD distribution, risk segments, deciles, threshold tuning, 
+confusion matrix, feature importance, CV stability, SHAP summary, 
+SHAP waterfall)
